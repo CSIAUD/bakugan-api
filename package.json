@@ -4,6 +4,7 @@
   "description": "API for Bakugan's list",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/CSIAUD/bakugan-api/issues"
   },
-  "homepage": "https://github.com/CSIAUD/bakugan-api#readme"
+  "homepage": "https://github.com/CSIAUD/bakugan-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
