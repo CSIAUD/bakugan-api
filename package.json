@@ -1,0 +1,24 @@
+{
+  "name": "bakugan-api",
+  "version": "1.0.0",
+  "description": "API for Bakugan's list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSIAUD/bakugan-api.git"
+  },
+  "keywords": [
+    "bakugan",
+    "game",
+    "api"
+  ],
+  "author": "Cyprien Siaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSIAUD/bakugan-api/issues"
+  },
+  "homepage": "https://github.com/CSIAUD/bakugan-api#readme"
+}
